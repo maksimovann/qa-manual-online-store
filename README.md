@@ -1,2 +1,53 @@
-# qa-manual-online-store
-Manual QA project: test plan, checklists, test cases and bug reports for an online store.
+# QA Manual Testing Project — Online Store
+
+## Описание проекта
+
+Этот проект представляет собой пример ручного тестирования интернет-магазина.
+
+В рамках проекта подготовлены QA-артефакты:
+
+- тест-план;
+- smoke checklist;
+- regression checklist;
+- тест-кейсы;
+- баг-репорты.
+
+Проект создан как часть QA-портфолио для демонстрации навыков ручного тестирования веб-приложений.
+
+---
+
+## Что тестируется
+
+В проекте рассмотрены основные пользовательские сценарии интернет-магазина:
+
+- авторизация пользователя;
+- поиск товара;
+- просмотр карточки товара;
+- добавление товара в корзину;
+- изменение количества товара;
+- удаление товара из корзины;
+- оформление заказа;
+- проверка негативных сценариев.
+
+---
+
+## Структура проекта
+
+```text
+qa-manual-online-store/
+│
+├── test-plan/
+│   └── test-plan.md
+│
+├── checklists/
+│   ├── smoke-checklist.md
+│   └── regression-checklist.md
+│
+├── test-cases/
+│   ├── authorization-test-cases.md
+│   ├── search-test-cases.md
+│   ├── cart-test-cases.md
+│   └── checkout-test-cases.md
+│
+└── bug-reports/
+    └── bug-reports.md
