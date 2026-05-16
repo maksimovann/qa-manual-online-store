@@ -26,3 +26,27 @@ test-plan/        тест-план
 checklists/       smoke и regression чек-листы
 test-cases/       тест-кейсы по основным разделам
 bug-reports/      примеры баг-репортов
+
+
+## Какие навыки показывает проект
+
+- написание тест-плана
+- составление чек-листов
+- написание тест-кейсов
+- оформление баг-репортов
+- функциональное тестирование
+- smoke testing
+- regression testing
+- негативное тестирование
+
+## Инструменты
+
+- GitHub
+- Markdown
+- Google Chrome
+- Windows 11
+
+## Автор
+
+Анна Максимова  
+GitHub: https://github.com/maksimovann
